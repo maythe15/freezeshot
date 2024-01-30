@@ -1,0 +1,4 @@
+mouse==0.7.1
+pillow==10.2.0
+pygame==2.5.2
+screeninfo==0.8.1
